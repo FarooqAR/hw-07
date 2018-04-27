@@ -1,10 +1,8 @@
 # HW 07
-Helloooo!!
+Hello!
 
-Due: 00h, 01 May 2018!
+All questions carry equal weight. 
 
-All numbered qs carry no weight. So no fear getting em wrong! 
+Please start early! 
 
-Please start early.
-
--foo and bar
+Viel Spaß and May the Force be with you!
